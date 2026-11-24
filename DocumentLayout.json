@@ -1,0 +1,662 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Bright_Future\\Web_Site_EC.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{855AE75C-A13A-C4F7-4700-193AEF26D41F}|Web_Site_EC.API\\Web_Site_EC.API.csproj|e:\\bright_future\\web_site_ec.api\\web_site_ec.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855AE75C-A13A-C4F7-4700-193AEF26D41F}|Web_Site_EC.API\\Web_Site_EC.API.csproj|solutionrelative:web_site_ec.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|e:\\bright_future\\web_site_ec.api\\application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|e:\\bright_future\\web_site_ec.api\\application\\dtos\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\dtos\\category\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|e:\\bright_future\\web_site_ec.api\\application\\interface\\icategoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\interface\\icategoryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|e:\\bright_future\\web_site_ec.api\\application\\dtos\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\dtos\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|e:\\bright_future\\web_site_ec.api\\application\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|e:\\bright_future\\web_site_ec.api\\domain\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\interface\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|e:\\bright_future\\web_site_ec.api\\domain\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C16DF8D-807B-4FC2-2E45-2D486AC1BA60}|Infrastrcuture\\Infrastrcuture.csproj|e:\\bright_future\\web_site_ec.api\\infrastrcuture\\infrastrcuture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1C16DF8D-807B-4FC2-2E45-2D486AC1BA60}|Infrastrcuture\\Infrastrcuture.csproj|solutionrelative:infrastrcuture\\infrastrcuture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C16DF8D-807B-4FC2-2E45-2D486AC1BA60}|Infrastrcuture\\Infrastrcuture.csproj|e:\\bright_future\\web_site_ec.api\\infrastrcuture\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C16DF8D-807B-4FC2-2E45-2D486AC1BA60}|Infrastrcuture\\Infrastrcuture.csproj|solutionrelative:infrastrcuture\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C16DF8D-807B-4FC2-2E45-2D486AC1BA60}|Infrastrcuture\\Infrastrcuture.csproj|e:\\bright_future\\web_site_ec.api\\infrastrcuture\\repository\\cartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C16DF8D-807B-4FC2-2E45-2D486AC1BA60}|Infrastrcuture\\Infrastrcuture.csproj|solutionrelative:infrastrcuture\\repository\\cartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|e:\\bright_future\\web_site_ec.api\\domain\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|e:\\bright_future\\web_site_ec.api\\domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|e:\\bright_future\\web_site_ec.api\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|e:\\bright_future\\web_site_ec.api\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855AE75C-A13A-C4F7-4700-193AEF26D41F}|Web_Site_EC.API\\Web_Site_EC.API.csproj|e:\\bright_future\\web_site_ec.api\\web_site_ec.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{855AE75C-A13A-C4F7-4700-193AEF26D41F}|Web_Site_EC.API\\Web_Site_EC.API.csproj|solutionrelative:web_site_ec.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C16DF8D-807B-4FC2-2E45-2D486AC1BA60}|Infrastrcuture\\Infrastrcuture.csproj|e:\\bright_future\\web_site_ec.api\\infrastrcuture\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C16DF8D-807B-4FC2-2E45-2D486AC1BA60}|Infrastrcuture\\Infrastrcuture.csproj|solutionrelative:infrastrcuture\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|e:\\bright_future\\web_site_ec.api\\domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C16DF8D-807B-4FC2-2E45-2D486AC1BA60}|Infrastrcuture\\Infrastrcuture.csproj|e:\\bright_future\\web_site_ec.api\\infrastrcuture\\migrations\\20261121144735_editdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C16DF8D-807B-4FC2-2E45-2D486AC1BA60}|Infrastrcuture\\Infrastrcuture.csproj|solutionrelative:infrastrcuture\\migrations\\20261121144735_editdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|e:\\bright_future\\web_site_ec.api\\domain\\interface\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\interface\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|e:\\bright_future\\web_site_ec.api\\domain\\interface\\icartrpository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\interface\\icartrpository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C16DF8D-807B-4FC2-2E45-2D486AC1BA60}|Infrastrcuture\\Infrastrcuture.csproj|e:\\bright_future\\web_site_ec.api\\infrastrcuture\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C16DF8D-807B-4FC2-2E45-2D486AC1BA60}|Infrastrcuture\\Infrastrcuture.csproj|solutionrelative:infrastrcuture\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C16DF8D-807B-4FC2-2E45-2D486AC1BA60}|Infrastrcuture\\Infrastrcuture.csproj|e:\\bright_future\\web_site_ec.api\\infrastrcuture\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C16DF8D-807B-4FC2-2E45-2D486AC1BA60}|Infrastrcuture\\Infrastrcuture.csproj|solutionrelative:infrastrcuture\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|e:\\bright_future\\web_site_ec.api\\domain\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\interface\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C16DF8D-807B-4FC2-2E45-2D486AC1BA60}|Infrastrcuture\\Infrastrcuture.csproj|e:\\bright_future\\web_site_ec.api\\infrastrcuture\\appdbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C16DF8D-807B-4FC2-2E45-2D486AC1BA60}|Infrastrcuture\\Infrastrcuture.csproj|solutionrelative:infrastrcuture\\appdbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C16DF8D-807B-4FC2-2E45-2D486AC1BA60}|Infrastrcuture\\Infrastrcuture.csproj|e:\\bright_future\\web_site_ec.api\\infrastrcuture\\configuration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C16DF8D-807B-4FC2-2E45-2D486AC1BA60}|Infrastrcuture\\Infrastrcuture.csproj|solutionrelative:infrastrcuture\\configuration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C16DF8D-807B-4FC2-2E45-2D486AC1BA60}|Infrastrcuture\\Infrastrcuture.csproj|e:\\bright_future\\web_site_ec.api\\infrastrcuture\\configuration\\cartconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C16DF8D-807B-4FC2-2E45-2D486AC1BA60}|Infrastrcuture\\Infrastrcuture.csproj|solutionrelative:infrastrcuture\\configuration\\cartconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C16DF8D-807B-4FC2-2E45-2D486AC1BA60}|Infrastrcuture\\Infrastrcuture.csproj|e:\\bright_future\\web_site_ec.api\\infrastrcuture\\configuration\\cartitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C16DF8D-807B-4FC2-2E45-2D486AC1BA60}|Infrastrcuture\\Infrastrcuture.csproj|solutionrelative:infrastrcuture\\configuration\\cartitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C16DF8D-807B-4FC2-2E45-2D486AC1BA60}|Infrastrcuture\\Infrastrcuture.csproj|e:\\bright_future\\web_site_ec.api\\infrastrcuture\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C16DF8D-807B-4FC2-2E45-2D486AC1BA60}|Infrastrcuture\\Infrastrcuture.csproj|solutionrelative:infrastrcuture\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C16DF8D-807B-4FC2-2E45-2D486AC1BA60}|Infrastrcuture\\Infrastrcuture.csproj|e:\\bright_future\\web_site_ec.api\\infrastrcuture\\configuration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C16DF8D-807B-4FC2-2E45-2D486AC1BA60}|Infrastrcuture\\Infrastrcuture.csproj|solutionrelative:infrastrcuture\\configuration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|e:\\bright_future\\web_site_ec.api\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|e:\\bright_future\\web_site_ec.api\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855AE75C-A13A-C4F7-4700-193AEF26D41F}|Web_Site_EC.API\\Web_Site_EC.API.csproj|e:\\bright_future\\web_site_ec.api\\web_site_ec.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{855AE75C-A13A-C4F7-4700-193AEF26D41F}|Web_Site_EC.API\\Web_Site_EC.API.csproj|solutionrelative:web_site_ec.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C16DF8D-807B-4FC2-2E45-2D486AC1BA60}|Infrastrcuture\\Infrastrcuture.csproj|e:\\bright_future\\web_site_ec.api\\infrastrcuture\\migrations\\20261119191712_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C16DF8D-807B-4FC2-2E45-2D486AC1BA60}|Infrastrcuture\\Infrastrcuture.csproj|solutionrelative:infrastrcuture\\migrations\\20261119191712_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855AE75C-A13A-C4F7-4700-193AEF26D41F}|Web_Site_EC.API\\Web_Site_EC.API.csproj|e:\\bright_future\\web_site_ec.api\\web_site_ec.api\\web_site_ec.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{855AE75C-A13A-C4F7-4700-193AEF26D41F}|Web_Site_EC.API\\Web_Site_EC.API.csproj|solutionrelative:web_site_ec.api\\web_site_ec.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{855AE75C-A13A-C4F7-4700-193AEF26D41F}|Web_Site_EC.API\\Web_Site_EC.API.csproj|e:\\bright_future\\web_site_ec.api\\web_site_ec.api\\web_site_ec.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{855AE75C-A13A-C4F7-4700-193AEF26D41F}|Web_Site_EC.API\\Web_Site_EC.API.csproj|solutionrelative:web_site_ec.api\\web_site_ec.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|e:\\bright_future\\web_site_ec.api\\application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80C4E72-27A0-12B5-0634-DD5C11CFB0C1}|Application\\Application.csproj|solutionrelative:application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Web_Site_EC.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Web_Site_EC.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Web_Site_EC.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Web_Site_EC.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T20:28:53.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateCategoryDto.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Application\\Dtos\\Category\\UpdateCategoryDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\Category\\UpdateCategoryDto.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Application\\Dtos\\Category\\UpdateCategoryDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\Category\\UpdateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T19:29:35.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Application\\Dtos\\Category\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\Category\\CategoryDto.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Application\\Dtos\\Category\\CategoryDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\Category\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T19:26:24.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Application\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\CategoryService.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Application\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Application\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T19:34:32.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoryServices.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Application\\Interface\\ICategoryServices.cs",
+              "RelativeDocumentMoniker": "Application\\Interface\\ICategoryServices.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Application\\Interface\\ICategoryServices.cs",
+              "RelativeToolTip": "Application\\Interface\\ICategoryServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T19:23:30.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateCategoryDto.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Application\\Dtos\\Category\\CreateCategoryDto.cs",
+              "RelativeDocumentMoniker": "Application\\Dtos\\Category\\CreateCategoryDto.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Application\\Dtos\\Category\\CreateCategoryDto.cs",
+              "RelativeToolTip": "Application\\Dtos\\Category\\CreateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T19:30:50.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Domain\\Interface\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interface\\IProductRepository.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Domain\\Interface\\IProductRepository.cs",
+              "RelativeToolTip": "Domain\\Interface\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T13:31:03.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Domain\\Interface\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interface\\ICategoryRepository.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Domain\\Interface\\ICategoryRepository.cs",
+              "RelativeToolTip": "Domain\\Interface\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T13:27:25.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Infrastrcuture.csproj",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Infrastrcuture\\Infrastrcuture.csproj",
+              "RelativeDocumentMoniker": "Infrastrcuture\\Infrastrcuture.csproj",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Infrastrcuture\\Infrastrcuture.csproj",
+              "RelativeToolTip": "Infrastrcuture\\Infrastrcuture.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-19T19:31:00.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Infrastrcuture\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Infrastrcuture\\Repository\\ProductRepository.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Infrastrcuture\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Infrastrcuture\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T13:25:37.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartItemRepository.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Infrastrcuture\\Repository\\CartItemRepository.cs",
+              "RelativeDocumentMoniker": "Infrastrcuture\\Repository\\CartItemRepository.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Infrastrcuture\\Repository\\CartItemRepository.cs",
+              "RelativeToolTip": "Infrastrcuture\\Repository\\CartItemRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T14:10:56.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Domain\\Entities\\CartItem.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\CartItem.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Domain\\Entities\\CartItem.cs",
+              "RelativeToolTip": "Domain\\Entities\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T15:43:11.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Category.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T15:44:16.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Domain",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-21T19:55:02.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Infrastrcuture\\Repository\\CartRepository.cs",
+              "RelativeDocumentMoniker": "Infrastrcuture\\Repository\\CartRepository.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Infrastrcuture\\Repository\\CartRepository.cs",
+              "RelativeToolTip": "Infrastrcuture\\Repository\\CartRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T20:24:34.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Domain\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Cart.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Domain\\Entities\\Cart.cs",
+              "RelativeToolTip": "Domain\\Entities\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T15:42:35.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Web_Site_EC.API\\Program.cs",
+              "RelativeDocumentMoniker": "Web_Site_EC.API\\Program.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Web_Site_EC.API\\Program.cs",
+              "RelativeToolTip": "Web_Site_EC.API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T19:20:11.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-19T15:40:06.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20261121144735_EditDate.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Infrastrcuture\\Migrations\\20261121144735_EditDate.cs",
+              "RelativeDocumentMoniker": "Infrastrcuture\\Migrations\\20261121144735_EditDate.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Infrastrcuture\\Migrations\\20261121144735_EditDate.cs",
+              "RelativeToolTip": "Infrastrcuture\\Migrations\\20261121144735_EditDate.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T14:47:35.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Infrastrcuture\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Infrastrcuture\\Repository\\CategoryRepository.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Infrastrcuture\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Infrastrcuture\\Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T13:26:23.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICartItemRepository.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Domain\\Interface\\ICartItemRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interface\\ICartItemRepository.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Domain\\Interface\\ICartItemRepository.cs",
+              "RelativeToolTip": "Domain\\Interface\\ICartItemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T14:09:51.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICartRpository.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Domain\\Interface\\ICartRpository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interface\\ICartRpository.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Domain\\Interface\\ICartRpository.cs",
+              "RelativeToolTip": "Domain\\Interface\\ICartRpository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T20:17:49.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Infrastrcuture\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Infrastrcuture\\Repository\\UserRepository.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Infrastrcuture\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Infrastrcuture\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T19:41:37.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Domain\\Interface\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interface\\IUserRepository.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Domain\\Interface\\IUserRepository.cs",
+              "RelativeToolTip": "Domain\\Interface\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T19:33:00.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Infrastrcuture\\AppDBContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastrcuture\\AppDBContext\\AppDbContext.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Infrastrcuture\\AppDBContext\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastrcuture\\AppDBContext\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T18:50:46.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Infrastrcuture\\Configuration\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastrcuture\\Configuration\\ProductConfiguration.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Infrastrcuture\\Configuration\\ProductConfiguration.cs",
+              "RelativeToolTip": "Infrastrcuture\\Configuration\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T13:33:35.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CartConfiguration.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Infrastrcuture\\Configuration\\CartConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastrcuture\\Configuration\\CartConfiguration.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Infrastrcuture\\Configuration\\CartConfiguration.cs",
+              "RelativeToolTip": "Infrastrcuture\\Configuration\\CartConfiguration.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T18:28:33.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CartItemConfiguration.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Infrastrcuture\\Configuration\\CartItemConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastrcuture\\Configuration\\CartItemConfiguration.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Infrastrcuture\\Configuration\\CartItemConfiguration.cs",
+              "RelativeToolTip": "Infrastrcuture\\Configuration\\CartItemConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T18:36:55.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Infrastrcuture\\Configuration\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastrcuture\\Configuration\\UserConfiguration.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Infrastrcuture\\Configuration\\UserConfiguration.cs",
+              "RelativeToolTip": "Infrastrcuture\\Configuration\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T18:09:37.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Infrastrcuture\\Configuration\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastrcuture\\Configuration\\CategoryConfiguration.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Infrastrcuture\\Configuration\\CategoryConfiguration.cs",
+              "RelativeToolTip": "Infrastrcuture\\Configuration\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T13:34:31.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T15:41:55.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T15:43:43.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Web_Site_EC.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Web_Site_EC.API\\appsettings.json",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Web_Site_EC.API\\appsettings.json",
+              "RelativeToolTip": "Web_Site_EC.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-19T19:21:36.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20261119191712_initialcreate.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Infrastrcuture\\Migrations\\20261119191712_initialcreate.cs",
+              "RelativeDocumentMoniker": "Infrastrcuture\\Migrations\\20261119191712_initialcreate.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Infrastrcuture\\Migrations\\20261119191712_initialcreate.cs",
+              "RelativeToolTip": "Infrastrcuture\\Migrations\\20261119191712_initialcreate.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T19:22:11.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Web_Site_EC.API.http",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Web_Site_EC.API\\Web_Site_EC.API.http",
+              "RelativeDocumentMoniker": "Web_Site_EC.API\\Web_Site_EC.API.http",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Web_Site_EC.API\\Web_Site_EC.API.http",
+              "RelativeToolTip": "Web_Site_EC.API\\Web_Site_EC.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-11-19T19:21:33.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Web_Site_EC.API.csproj",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Web_Site_EC.API\\Web_Site_EC.API.csproj",
+              "RelativeDocumentMoniker": "Web_Site_EC.API\\Web_Site_EC.API.csproj",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Web_Site_EC.API\\Web_Site_EC.API.csproj",
+              "RelativeToolTip": "Web_Site_EC.API\\Web_Site_EC.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-19T16:26:56.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Bright_Future\\Web_Site_EC.API\\Application\\Class1.cs",
+              "RelativeDocumentMoniker": "Application\\Class1.cs",
+              "ToolTip": "E:\\Bright_Future\\Web_Site_EC.API\\Application\\Class1.cs",
+              "RelativeToolTip": "Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T15:39:26.055Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1217,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
